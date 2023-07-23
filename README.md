@@ -153,5 +153,5 @@ npx hardhat newcircuit --name newcircuit
 > For development builds of groth16 circuits, we provide the --deterministic flag in order to use a NON-RANDOM and UNSECURE hardcoded entropy (0x000000 by default) which will allow you to more easily inspect and catch changes in your circuits. You can adjust this default beacon by setting the beacon property on a circuit's config in your hardhat.config.js file.
 
 **Authors**
-Kiratpal Singh kalsey
-https://www.linkedin.com/in/kiratpal-singh-kalsey-a92b15230/
+(Kiratpal Singh kalsey)[https://www.linkedin.com/in/kiratpal-singh-kalsey-a92b15230/]
+
