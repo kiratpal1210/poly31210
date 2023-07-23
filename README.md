@@ -1,6 +1,6 @@
 # zardkat 🐱
 
-A [hardhat-circom](https://github.com/projectsophon/hardhat-circom) template to generate zero-knowledge circuits, proofs, and solidity verifiers
+A [poly_module3](https://github.com/kiratpal1210/poly_module3.git) template to generate zero-knowledge circuits, proofs, and solidity verifiers
 
 ## Quick Start
 Compile the kiratCircuit() circuit and verify it against a smart contract verifier
